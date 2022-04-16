@@ -14,6 +14,7 @@ dependencies:
   - scikit-learn
   - lenstronomy
   - corner
+  - pip
   - pip:
     - colossus
     - autofit
