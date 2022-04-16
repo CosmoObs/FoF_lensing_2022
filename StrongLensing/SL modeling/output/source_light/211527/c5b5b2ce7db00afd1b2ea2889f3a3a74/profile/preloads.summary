@@ -1,0 +1,12 @@
+W Tilde = False
+Use W Tilde = False
+
+Blurred Image = False
+Traced Grids of Planes (For LEq) = False
+Sparse Image-Plane Grids of Planes = False
+Relocated Grid = False
+Mapper = False
+Blurred Mapping Matrix = False
+Curvature Matrix Sparse = False
+Regularization Matrix = False
+Log Det Regularization Matrix Term = False
