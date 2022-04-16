@@ -601,3 +601,8 @@
 2022-04-13 14:46:11,794 - 211527 - INFO - 35000 Iterations: Performing update (Visualization, outputting samples, etc.).
 2022-04-13 14:46:50,254 - 211527 - INFO - 40000 Iterations: Performing update (Visualization, outputting samples, etc.).
 2022-04-13 14:48:31,445 - 211527 - INFO - Removing zip file
+2022-04-16 10:19:51,868 - autoarray.dataset.imaging - INFO - IMAGING - Data masked, contains a total of 1116 image-pixels
+2022-04-16 10:19:52,182 - autofit.non_linear.abstract_search - INFO - Creating search
+2022-04-16 10:19:52,186 - 211527 - INFO - Starting search
+2022-04-16 10:19:52,241 - 211527 - INFO - Already completed, skipping non-linear search.
+2022-04-16 10:19:52,380 - 211527 - INFO - Removing zip file
