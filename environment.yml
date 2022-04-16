@@ -1,5 +1,6 @@
 name: packages
 channels:
+  - defaults
   - conda-forge
 dependencies:
   - numpy
@@ -8,3 +9,13 @@ dependencies:
   - natsort
   - astropy
   - scipy
+  - six
+  - numba
+  - scikit-image
+  - scikit-learn
+  - autolens
+  - lenstronomy
+  - corner
+  - autofit 
+  - pip:
+    - colossus
