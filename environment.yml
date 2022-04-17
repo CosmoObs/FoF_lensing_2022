@@ -19,3 +19,4 @@ dependencies:
     - colossus
     - autofit
     - autolens
+    - MulensModel
