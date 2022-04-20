@@ -14,9 +14,12 @@ dependencies:
   - scikit-learn
   - lenstronomy
   - corner
+  - emcee
+  - IPython
   - pip
   - pip:
     - colossus
     - autofit
     - autolens
     - MulensModel
+    - trilogy
